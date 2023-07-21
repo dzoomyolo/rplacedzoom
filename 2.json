@@ -1,0 +1,15 @@
+{
+  "contact": "t.me/dzoomka",
+  "templates": [
+    {
+      "name": "dzoom",
+      "sources": [
+        "https://sun9-50.userapi.com/impg/xeeVzyKwjJE6VwQ3txdUttIRozIGcdmPNlAu7A/iTCl1DkQisA.jpg?size=692x536&quality=96&sign=44d900224330c79beb44c670b0bc80f2&type=album"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
