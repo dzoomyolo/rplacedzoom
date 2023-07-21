@@ -1,0 +1,15 @@
+{
+  "contact": "t.me/dzoomka",
+  "templates": [
+    {
+      "name": "dzoom",
+      "sources": [
+        "https://anim.pw/brff1.png"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
