@@ -1,0 +1,15 @@
+{
+  "contact": "t.me/dzoomka",
+  "templates": [
+    {
+      "name": "dzoom",
+      "sources": [
+        "https://dimden.dev/images/dimdenplace2023.png?5"
+      ],
+      "x": 451,
+      "y": 993
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
